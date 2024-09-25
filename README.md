@@ -1,5 +1,5 @@
 ## Project title
-Alumni NetWork
+- Alumni NetWork
 
 ## What and why?
 - Alumni NetWork is a social mobile app that is built to enhance the frictions of alumni networking. The current prevailing way of reaching out to an alumni in the professional field includes 1. Find the company you might want to join. 2. Filter the school to find your alumni. 3. Guessing their work email so that you can send them a message.
@@ -12,8 +12,8 @@ Alumni NetWork
 
 ## How? 
 - All students and alumnis would have their own profiles and because it is a school based app, NYU students will only see profiles from NYU. 
-1. Chat messaging allowed to foster communications between student and alumni.
-2. Calendar feastures to facilitate scheduling of coffee chats.
+  - Chat messaging allowed to foster communications between student and alumni.
+  - Calendar feastures to facilitate scheduling of coffee chats.
 
 ## Scope
 - This is a doable project for a group of 4-6 programmers in one semester. The bulk of the work would include building out the structure of this social app and making it functional to allow user sign up. The second phase would be to advertise it among NYU students to increase profiles and usage. 
