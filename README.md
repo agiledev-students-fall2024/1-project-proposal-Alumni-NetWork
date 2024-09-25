@@ -1,5 +1,4 @@
 # Project Proposal 
-- Andy Liu
 
 ### Project title
 - Alumni NetWork
